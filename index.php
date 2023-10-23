@@ -1,7 +1,9 @@
 <?php
 
-	echo "Olá mundo 456";
+
+	echo "Olá mundo 123456";
 	
-	echo "olá senhoras"
+	echo "Olá senhoras e senhores"
+
 
 ?>
